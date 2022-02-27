@@ -22,7 +22,12 @@ echo "5- ". str_word_count($string)."<br>";
 echo "6- ". strrev($string)."<br>";
 echo "7- ". strtoupper($string)."<br>";
 echo "8- ". strtolower($string)."<br>";
-
+echo "9- ". ucfirst($string)."<br>";
+echo "10- ". lcfirst($string)."<br>";
+echo "11- ". ucwords('hello world')."<br>";
+echo "12- ".strpos($string, 'world'). "<br>";
+echo "13- ". str_replace('world','PHP',$string)."<br>";
+echo "14- ". substr($string,8,6).'<br>';
 // Multiline text and line breaks
 
 // Multiline text and reserve html tags

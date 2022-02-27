@@ -1,6 +1,9 @@
 <?php
 
 // What is a variable
+// variables are case sensitive
+
+
 
 // Variable types
 
