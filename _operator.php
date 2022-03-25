@@ -8,4 +8,4 @@ echo "addition of a and b:", $c;// because echo easil;y handle multiple operator
 
 echo $a++;
 $b++;
-echo $b;
+echo $b;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
